@@ -1,4 +1,4 @@
-import DailyRhythm from "./daily-rhythm.js";
+import DailyRhythm from "./dailyrhythm.js";
 
 export default function App() {
   return <DailyRhythm />;
