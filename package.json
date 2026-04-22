@@ -10,8 +10,6 @@
     "react-scripts": "^5.0.0"
   },
   "devDependencies": {
-    "@types/react": "19.0.0",
-    "@types/react-dom": "19.0.0",
     "loader-utils": "3.2.1",
   },
   "scripts": {
